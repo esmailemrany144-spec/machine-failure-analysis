@@ -1,5 +1,10 @@
  # ⚙️ Machine Failure Data Analysis & Predictive Maintenance
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-Analysis-brightgreen)
+
 ## 📌 Overview
 
 This project analyzes machine failure data to identify patterns, understand failure factors, and generate insights that can support predictive maintenance decisions.
