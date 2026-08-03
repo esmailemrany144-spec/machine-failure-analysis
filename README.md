@@ -85,6 +85,19 @@ An interactive Power BI dashboard was created to present:
 
 ---
 
+## 📁 Project Structure
+
+machine-failure-analysis/
+
+├── data/
+├── notebooks/
+├── dashboard/
+├── images/
+├── reports/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ## 🚀 Future Improvements
 
 - Build machine learning models for failure prediction.
