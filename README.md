@@ -73,15 +73,27 @@ The analysis covers:
 
 ---
 
-## 📈 Dashboard
 
-An interactive Power BI dashboard was created to present:
 
-- Machine statistics.
-- Failure indicators.
-- Data-driven maintenance insights.
 
-*(Dashboard screenshots will be added soon.)*
+## Project Screenshots
+
+### Python Data Analysis & Machine Learning
+
+![Python Analysis](Python1.png)
+
+![Python Analysis](Python2.png)
+
+![Python Analysis](Python3.png)
+
+
+### Power BI Dashboard
+
+![Power BI Dashboard](PowerBi1.png)
+
+![Power BI Dashboard](PowerBi2.png)
+
+![Power BI Dashboard](PowerBi3.png)
 
 ---
 
